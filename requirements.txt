@@ -4,4 +4,4 @@ numpy==1.19.2
 yfinance==0.1.55
 statsmodels==0.12.0
 plotly==4.14.3
-stockstats==0.3.2
+stockstats==0.4.1
